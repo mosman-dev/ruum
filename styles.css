@@ -343,12 +343,12 @@ li {
 
 	.menu .logo {
 		width: 100%;
-		font-size: 2em;
+		font-size: 1.6em;
 	}
 
 	.menu .mobile-links {
-		width: 50px;
-		height: 45px;
+		width: 36px;
+		height: 32px;
 		display: flex;
 		align-items: center;
 		background: transparent;
@@ -365,7 +365,7 @@ li {
 		display: none;
 		justify-content: space-around;
 		align-items: center;
-		margin-right: 40px;
+		margin-right: 22px;
 		margin-left: 10px;
 		color: #000;
 		font-size: 0.8em;
@@ -391,14 +391,14 @@ li {
 		display: inline-block;
 		margin-right: 0px;
 		position: absolute;
-		right: 29px;
-		top: 30px;
+		right: 20px;
+		top: 23px;
 		z-index: 103;
 	}
 
 	.burger-section {
 		background: #000;
-		width: 25px;
+		width: 18px;
 		height: 1px;
 		margin-top: 6px;
 		border-radius: 2px;
@@ -491,7 +491,7 @@ li {
 
 @media only screen and (max-width: 414px) {
 	.burger {
-		right: 27px;
+		right: 19px;
 	}
 
 	.content-section {
